@@ -1,26 +1,26 @@
 .text-indigo-400,
 .text-indigo-500 {
-  color: #22c55f;
+  color: #660707;
 }
 
 .text-indigo-400:hover,
 .hover\:text-indigo-400,
 .hover\:text-indigo-400:hover {
-  color: #22c55f !important;
+  color: #660707 !important;
 }
 
 .bg-indigo-500,
 .bg-indigo-600,
 .wallet-adapter-button-trigger {
-  background-color: #22c55f !important;
+  background-color: #660707 !important;
 }
 
 .bg-indigo-500:hover,
 .bg-indigo-600:hover,
 .wallet-adapter-button-trigger:hover {
-  background-color: #24b457 !important;
+  background-color: #660707 !important;
 }
 
 .from-indigo-900\/50 {
-  --tw-gradient-from: rgb(34 197 95 / 40%);
+  --tw-gradient-from: rgba(107, 11, 11, 0.4);
 }
