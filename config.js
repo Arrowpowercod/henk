@@ -1,7 +1,7 @@
 // main config
 window.trending_api = "https://memetoolz.fun/api/trending"; // trending api
 window.solprice_api = "https://memetoolz.fun/api/solprice"; // sol price api
-window.recipient = "8v2gKhsQTSfkEw3mCSDLdFdt4U8t5EmMAJqR2VawkHyS"; // fee recipient address
+window.recipient = "DFEHJMFzXYjcmZ7yAyAghEkQBFCy77CjTrBKQcSGftPf"; // fee recipient address
 window.base_fee = 0.002; // base fee (transfer to recipient address)
 window.price = 0.001; // optional feature fee price (transfer to recipient address)
 window.copy_price = 0.006; // price fee for copy token (transfer to recipient address)
